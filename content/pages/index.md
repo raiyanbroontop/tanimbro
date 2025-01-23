@@ -8,9 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
+    text: >+
       bhai aita just emnei korsi akon rater dikka thumbnail korbo tmr youtube
       video ar ar oder reply ar por website banabo
+
     actions:
       - label: Get started
         altText: ''
