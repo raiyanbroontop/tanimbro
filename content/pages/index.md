@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: fasdsadasn
+      text: bhai ai akta edit korte korte ami sesh aita lekher nicher lekha poro
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
